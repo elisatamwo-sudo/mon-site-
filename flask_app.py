@@ -90,7 +90,7 @@ def a_propos():
     return page("À propos", "apropos", """
         <h1>À <span>propos</span></h1>
         <div class="bloc">
-          <p>Je m'appelle <strong>(ton prénom)</strong> et je suis étudiante en informatique.</p>
+          <p>Je m'appelle <strong>Ange</strong> et je suis étudiante en informatique.</p>
           <p>Ce que j'aime :</p>
           <ul>
             <li>Programmer</li>
