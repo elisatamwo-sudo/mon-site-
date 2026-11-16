@@ -95,7 +95,7 @@ def a_propos():
           <ul>
             <li>Programmer</li>
             <li>Apprendre de nouvelles choses</li>
-            <li>(ajoute ce que tu veux)</li>
+            <li>La lecture </li>
           </ul>
         </div>
     """)
